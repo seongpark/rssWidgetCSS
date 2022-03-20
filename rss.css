@@ -20,3 +20,27 @@ img {border:0px;}
 .feed-container .content .item .description{margin:0 0 0 3px;padding:0 2px 0 3px;color:#666;}
 .feed-container .content .item .description a{text-decoration:none;color:#000;}
 .feed-container .content .item .description a:hover{text-decoration:underline;color:#666;}
+
+.section {
+  max-height: 150px;
+  padding: 1rem;
+  overflow-y: auto;
+  direction: ltr;
+  scrollbar-color: #8070d4;
+  scrollbar-width: thin;
+
+.section::-webkit-scrollbar {
+  width: 20px;
+}
+
+.section::-webkit-scrollbar-track {
+  background-color: #e4e4e4;
+  border-radius: 100px;
+}
+
+.section::-webkit-scrollbar-thumb {
+  border-radius: 100px;
+  border: 6px solid rgba(0, 0, 0, 0.18);
+  border-left: 0;
+  border-right: 0;
+}
