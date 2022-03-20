@@ -4,7 +4,7 @@ body {
 
 
 img {border:0px;}
-.feed-container{font-size:12px;color:#fff;border:0px solid #CCCCCC;}
+.feed-container{font-family: 'Spoqa Han Sans Neo', 'sans-serif'!important;font-size:12px;color:#fff;border:0px solid #CCCCCC;}
 .feed-container .header{display:none;}
 .feed-container .footer{display:none}
 .feed-container .content{margin:0px;padding:0 3px;}
