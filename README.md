@@ -3,7 +3,6 @@
 
 # 적용 사진
 <img src="https://i.ibb.co/KDmPf24/2022-05-14-195657.png" alt="2022-05-14-195657" border="0">
-<a href="https://cloudxellent.ga">CloudXellent</a>의 적용 사진
 
 # 사용 방법
 1. <a href="https://surfing-waves.com/feed.htm">Sufing Waves</a>에 들어가 RSS 피드를 생성합니다.
